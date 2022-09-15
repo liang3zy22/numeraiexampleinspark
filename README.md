@@ -1,3 +1,3 @@
 # numeraiexampleinspark
 #Introduction
-This project is numerai competition codes written in spark scala api. The codes have same function with the codes provided by numerai.
+This project is codes written in spark scala api for numerai tournament. The codes have similar function with the example codes provided by numerai.
